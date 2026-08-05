@@ -7,4 +7,4 @@ transforma com Pandas e carrega em PostgreSQL e MongoDB Atlas.
 2. pip install -r requirements.txt
 3. python src/pipeline.py
 
-![Diagrama da Arquitetura](Desktop/next-dados/pipeline-cambio/pipelinecambio.png)
+![Diagrama da Arquitetura](./pipelinecambio.png)
